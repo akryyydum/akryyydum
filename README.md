@@ -12,6 +12,7 @@
 </style>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Cyberpunk GIF" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FF79C6&width=600&lines=Welcome+to+My+Indie+Anime+World!;Lost+in+Lines+of+Code;Crafting+Dreams+in+Cyberpunk+Lights;Let's+Connect+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
@@ -32,6 +33,9 @@
 </p>
 <p align="center">
   🌃 Inspired by late-night anime marathons & cyberpunk cityscapes.
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="400" alt="Anime Coding GIF" />
 </p>
 
 ---
@@ -74,6 +78,9 @@
 
 <h2 align="center" class="glow">💭 Fun Fact</h2>
 <p align="center">"Somewhere, in the vast digital neon ocean, your code is running like a lost melody." 🎶🌃</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400" alt="Dreamy Anime GIF" />
+</p>
 
 ---
 
