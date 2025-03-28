@@ -1,15 +1,5 @@
 <!-- Indie Anime Film Themed GitHub Profile README -->
 
-<style>
-  body {
-    background-color: #1e1e2e;
-    color: #cdd6f4;
-    font-family: 'Courier New', monospace;
-  }
-  .glow {
-    text-shadow: 0 0 8px #ff79c6;
-  }
-</style>
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Cyberpunk GIF" />
