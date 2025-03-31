@@ -1,9 +1,8 @@
 <!-- Indie Anime Film Themed GitHub Profile README -->
 
-
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Cyberpunk GIF" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FF79C6&width=600&lines=Welcome+to+My+Indie+Anime+World!;Lost+in+Lines+of+Code;Crafting+Dreams+in+Cyberpunk+Lights;Let's+Connect+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Minecraft&weight=600&size=24&duration=3000&pause=500&color=FF79C6&width=600&lines=Welcome+to+My+Indie+Anime+World!;Lost+in+Lines+of+Code;Crafting+Dreams+in+Cyberpunk+Lights;Let's+Connect+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <br>
@@ -16,10 +15,10 @@
 
 <h2 align="center" class="glow">🌸 About Me</h2>
 <p align="center">
-  🎌 Just a wandering soul, coding under neon lights.
+  🇯🇰 Just a wandering soul, coding under neon lights.
 </p>
 <p align="center">
-  🏮 Building surreal projects, blending reality and code.
+  🏢 Building surreal projects, blending reality and code.
 </p>
 <p align="center">
   🌃 Inspired by late-night anime marathons & cyberpunk cityscapes.
