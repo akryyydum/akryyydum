@@ -1,4 +1,4 @@
-<!-- ⚡ Cyberpunk-Themed GitHub Profile README ⚡ -->
+![image](https://github.com/user-attachments/assets/d1fa9522-9a16-441d-bd42-4eb71be1b748)<!-- ⚡ Cyberpunk-Themed GitHub Profile README ⚡ -->
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/e6/79/69/e6796926118db6352df42376db3e15d8.gif" width="600" alt="Cyberpunk Cityscape" />
