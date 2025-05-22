@@ -1,55 +1,54 @@
-<!-- Indie Anime Film Themed GitHub Profile README -->
+<!-- ⚡ Cyberpunk-Themed GitHub Profile README ⚡ -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Cyberpunk GIF" />
-  
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Cyberpunk Cityscape" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akryyydum&margin-w=10&no-bg=true&theme=tokyonight" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akryyydum&margin-w=10&no-bg=true&theme=radical" alt="Trophies" />
 </div>
 
 ---
 
-<h2 align="center" class="glow">🌸 About Me</h2>
+<h2 align="center" style="color:#ff79c6;">🌐 Whoami</h2>
 <p align="center">
-  🇯🇰 Just a wandering soul, coding under neon lights.
+  👾 Digital ronin wandering the datastreams.  
 </p>
 <p align="center">
-  🏢 Building surreal projects, blending reality and code.
+  🛠️ Synthesizing surreal code from fragments of reality.  
 </p>
 <p align="center">
-  🌃 Inspired by late-night anime marathons & cyberpunk cityscapes.
+  🌌 Fueled by late-night anime loops and neon-streaked skylines.  
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="400" alt="Anime Coding GIF" />
-</p>
-
----
-
-<h2 align="center" class="glow">🔥 Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,typescript,nextjs,graphql,docker,kubernetes,linux,git,nodejs,figma" alt="Tech Stack" />
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="400" alt="Code in the Matrix" />
 </p>
 
 ---
 
-<h2 align="center" class="glow">🌌 GitHub Stats</h2>
+<h2 align="center" style="color:#8be9fd;">🛠️ Tech Arsenal</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akryyydum&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akryyydum&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akryyydum&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,python,git,docker,kubernetes,linux,figma,mongodb" alt="Stack Icons" />
 </p>
 
 ---
 
-<h2 align="center" class="glow">🌠 Connect with Me</h2>
+<h2 align="center" style="color:#bd93f9;">📊 Cyber Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akryyydum&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akryyydum&theme=radical&hide_border=true" alt="Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akryyydum&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+<h2 align="center" style="color:#ffb86c;">🔗 Connect to the Grid</h2>
 <p align="center">
   <a href="https://linkedin.com/in/akryyydum"><img src="https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/akryyydum"><img src="https://img.shields.io/badge/Twitter-ff79c6?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -58,26 +57,26 @@
 
 ---
 
-<h2 align="center" class="glow">🎶 Now Playing</h2>
+<h2 align="center" style="color:#50fa7b;">🎧 Currently Vibing</h2>
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YourSpotifyID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=ff79c6&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YourSpotifyID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=50fa7b&bar_color_cover=false" alt="Now Playing" />
 </p>
 
 ---
 
-<h2 align="center" class="glow">💭 Fun Fact</h2>
-<p align="center">"Somewhere, in the vast digital neon ocean, your code is running like a lost melody." 🎶🌃</p>
+<h2 align="center" style="color:#f1fa8c;">🧠 Data Drop</h2>
+<p align="center">"Your code doesn’t sleep. It dreams in neon." 💾🌃</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400" alt="Dreamy Anime GIF" />
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400" alt="Glitched Loop" />
 </p>
 
 ---
 
-<h3 align="center" class="glow">✨ Thanks for Visiting! ✨</h3>
+<h3 align="center" style="color:#ff79c6;">👁️‍🗨️ Echoes in the Matrix</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akryyydum&style=for-the-badge&color=ff79c6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=akryyydum&style=for-the-badge&color=bd93f9" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akryyydum/akryyydum/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/akryyydum/akryyydum/output/github-contribution-grid-snake.svg" alt="Snake Grid" />
 </p>
