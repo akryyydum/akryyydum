@@ -45,9 +45,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akryyydum&layout=compact&theme=radical&hide_border=true" />
 </p>
-<p align="center">
- <img src="https://raw.githubusercontent.com/akryyydum/akryyydum/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
