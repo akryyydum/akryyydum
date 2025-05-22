@@ -1,7 +1,7 @@
 <!-- ⚡ Cyberpunk-Themed GitHub Profile README ⚡ -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Cyberpunk Cityscape" />
+  <img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://i.pinimg.com/originals/e6/79/69/e6796926118db6352df42376db3e15d8.gif)" width="600" alt="Cyberpunk Cityscape" />
 </div>
 
 <br>
