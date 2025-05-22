@@ -1,7 +1,7 @@
 <!-- ⚡ Cyberpunk PixelArt GitHub Profile README ⚡ -->
 
 <div align="center">
-  <img src="https://i.imgur.com/WWc9fQj.gif" width="640" alt="Cyberpunk Pixel Art Banner" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o0a29iZ3kzcXVmeG03b2dhZXk5ODBrYXc4Nm93YW82OWk4MXVmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" width="640" alt="Cyberpunk Pixel Art Banner" />
 </div>
 
 <br>
