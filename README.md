@@ -1,7 +1,7 @@
 <!-- ⚡ Cyberpunk PixelArt GitHub Profile README ⚡ -->
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o0a29iZ3kzcXVmeG03b2dhZXk5ODBrYXc4Nm93YW82OWk4MXVmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" width="640" alt="Cyberpunk Pixel Art Banner" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThpY2MzNnl1Y2tpeWUwb25yb3BhYjNkdmlwZGZjbTMxMjZzMTg3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="640" alt="Cyberpunk Pixel Art Banner" />
 </div>
 
 <br>
@@ -45,6 +45,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akryyydum&layout=compact&theme=radical&hide_border=true" />
 </p>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/akryyydum/akryyydum/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -70,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Qt0XqbtUVz7kZ6tOZZ/giphy.gif" width="320" alt="Glitch Pixel Terminal" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhmNjV6MHQwYmxxaW8wazQzY2ZvZTk4ZGNjMWd2enhuYnpxeGhrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BgqtRVZH0w9OFefkf/giphy.gif" width="320" alt="Glitch Pixel Terminal" />
 </p>
 
 ---
