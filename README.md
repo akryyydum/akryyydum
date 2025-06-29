@@ -42,12 +42,6 @@
 
 ---
 
-<h2 align="center" style="color:#ff5555;">🎧 CURRENTLY TUNED IN</h2>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=ff5555&bar_color_cover=false" />
-</p>
-
----
 
 <h2 align="center" style="color:#ffb86c;">💬 LAST SIGNAL</h2>
 <p align="center">
