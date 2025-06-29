@@ -13,8 +13,6 @@
 ---
 
 
----
-
 <h2 align="center" style="color:#8be9fd;">🛠️ TECH STACK</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,python,mongodb,git,docker,linux,figma" alt="Tech Stack Icons" />
