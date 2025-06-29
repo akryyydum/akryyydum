@@ -12,19 +12,6 @@
 
 ---
 
-<h2 align="center" style="color:#ff79c6;">🌐 WHOAMI</h2>
-<p align="center">
-  👾 Synthpunk dev booting up in the midnight city.  
-</p>
-<p align="center">
-  🧠 Glitching boundaries between code and chaos.  
-</p>
-<p align="center">
-  ⚡ Fueled by synthwave, neon, and black coffee.  
-</p>
-<p align="center">
-  <img src="https://64.media.tumblr.com/5c6753fbc94d991e0c1e6b622748b08a/tumblr_nlnfzgIHpM1qfrcg7o1_500.gif" width="360" alt="Cyberpunk Hacker Pixel Art" />
-</p>
 
 ---
 
