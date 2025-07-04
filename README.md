@@ -1,8 +1,8 @@
 <!-- Profile README for GitHub user: akryyydum -->
 
-<h1 align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Lance+(akryyydum);Full-stack+developer;Tech+enthusiast+%F0%9F%9A%80;Let's+build+cool+stuff!" alt="Typing SVG" />
-</h1>
+</h2>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdmdmcyMXRoNWswdDZ5eWR0MG5rNWIzb2ZqbnplYmp0NmY2M3VidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUWF7fAUP2q4/giphy.gif" width="800" />
