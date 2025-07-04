@@ -1,63 +1,61 @@
-<!-- ⚡️ CYBERPUNK PIXELART GITHUB PROFILE README ⚡️ -->
+<!-- Profile README for GitHub user: akryyydum -->
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThpY2MzNnl1Y2tpeWUwb25yb3BhYjNkdmlwZGZjbTMxMjZzMTg3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="640" alt="Cyberpunk Pixel Art Banner" />
-  
-  <br/><br/>
+<h1 align="center">Hi there 👋, I'm Lance (aka akryyydum)</h1>
+<h3 align="center">A passionate full-stack developer and tech enthusiast</h3>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=akryyydum&margin-w=10&no-bg=true&theme=radical" alt="GitHub Trophies" />
-
-  <br/><br/>
-</div>
-
----
-
-<h2 align="center"><img src="https://img.icons8.com/fluency/32/000000/source-code.png" width="24"/> <span style="color:#8be9fd;">TECH STACK</span></h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mongodb,git,docker,linux,figma" alt="Tech Stack Icons" />
+  <img src="https://komarev.com/ghpvc/?username=akryyydum&label=Profile%20views&color=0e75b6&style=flat" alt="akryyydum" />
 </p>
 
 ---
 
-<h2 align="center"><img src="https://img.icons8.com/fluency/32/000000/bar-chart.png" width="24"/> <span style="color:#bd93f9;">STATS IN THE GRID</span></h2>
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on: **MERN-based eCommerce and admin dashboards**
+- 🌱 I’m learning: **Hyperledger Fabric, Blockchain + MERN stack**
+- 👯 I’m looking to collaborate on: **open source web and mobile projects**
+- 💬 Ask me about: **JavaScript, Node.js, MongoDB, React, Express, and Kotlin**
+- ⚡ Fun fact: **I build clean UIs and love pixel-perfect design**
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,html,css,tailwind,js,ts,figma,androidstudio,kotlin,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akryyydum&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akryyydum&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akryyydum&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akryyydum&show_icons=true&theme=tokyonight" alt="akryyydum's GitHub stats" />
 </p>
 
----
-
-<h2 align="center"><img src="https://img.icons8.com/fluency/32/000000/link.png" width="24"/> <span style="color:#f1fa8c;">JACK INTO THE NET</span></h2>
 <p align="center">
-  <a href="https://akryyydum.dev"><img src="https://img.shields.io/badge/Portfolio-50fa7b?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/akryyydum"><img src="https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/akryyydum"><img src="https://img.shields.io/badge/Twitter-8be9fd?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akryyydum&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h2 align="center"><img src="https://img.icons8.com/fluency/32/000000/dialogue.png" width="24"/> <span style="color:#ffb86c;">LAST SIGNAL</span></h2>
-<p align="center" style="color:#f8f8f2; font-style:italic;">
-  "The future is coded in glowing pixels and broken firewalls."
-</p>
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhmNjV6MHQwYmxxaW8wazQzY2ZvZTk4ZGNjMWd2enhuYnpxeGhrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BgqtRVZH0w9OFefkf/giphy.gif" width="320" alt="Glitch Pixel Terminal" />
+## 🧠 Currently Building
+
+- 🛒 Bookstore w/ real-time cart and payments using MERN  
+- 🏠 Barangay Management System with React, Node, MongoDB  
+- 🧩 Android Memory Matching Game using Kotlin + animations
+
+---
+
+## 📫 Connect with Me
+
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/akryyydum"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-<h2 align="center"><img src="https://img.icons8.com/fluency/32/000000/echo.png" width="24"/> <span style="color:#6272a4;">ECHOES</span></h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akryyydum&style=for-the-badge&color=bd93f9" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/akryyydum/akryyydum/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave"/>
-</div>
