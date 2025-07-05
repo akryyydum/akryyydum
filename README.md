@@ -1,7 +1,7 @@
 <!-- Profile README for GitHub user: akryyydum -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Lance+(akrydum);Full-stack+developer;Tech+enthusiast+%F0%9F%9A%80;Let's+build+cool+stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Lance+(akrydum);Full-stack+developer;Tech+enthusiast+%F0%9F%9A%80;Let's+build+cool+stuff!" alt="Typing SVG" />
 </h2>
 
 <p align="center">
