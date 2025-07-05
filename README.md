@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/Visit%20Portfolio-ff4c60?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge" />
   </a>
   <br/>
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="400" alt="Portfolio Animation" />
 </p>
 
 ---
