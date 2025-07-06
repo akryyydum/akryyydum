@@ -43,6 +43,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akryyydum&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akryyydum&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akryyydum&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
