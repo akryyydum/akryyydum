@@ -9,7 +9,7 @@
 </p>
 
 ---
-## 🌐 Checkout My Portfolio
+## 🌐 My Portfolio (Not yet done)
 
 <p align="center">
   <a href="https://portfolio-lanceandres-projects.vercel.app/#about" target="_blank">
