@@ -1,7 +1,7 @@
 <!-- UNDERTALE THEMED PROFILE README -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Determination+Mono&size=30&duration=3500&pause=700&center=true&vCenter=true&width=600&lines=*You+approach+Lance.;*A+Full-Stack+Developer+appears!;*LV:+99+%7C+HP:+∞;*Stay+determined.">
+  <img src="https://fbi.cults3d.com/uploaders/18922083/illustration-file/7a713536-6eaa-4c7d-8323-49192232d2ec/Screenshot-2022-06-19-222128.jpg">
 </h2>
 
 <p align="center">
