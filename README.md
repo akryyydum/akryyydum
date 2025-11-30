@@ -26,17 +26,12 @@
 - 🎮 Side Quests: **Android Games (Kotlin)**
 - ⭐ Special Ability: **Clean UI, organized code, and solving boss-level bugs**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o8doV7Lz4E2xc1CNO/giphy.gif" width="250"/>
-</p>
-
 ---
 
 ## ⚔️ **ITEMS: Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,html,css,tailwind,js,ts,kotlin,androidstudio,git,github,vscode,figma,cpp,java,python" />
   <br/><br/>
-  <img src="https://media.giphy.com/media/xThuWcaa7ENwxxEueU/giphy.gif" width="180"/>
 </p>
 
 ---
