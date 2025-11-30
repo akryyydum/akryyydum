@@ -1,83 +1,84 @@
-<!-- Profile README for GitHub user: akryyydum -->
+<!-- UNDERTALE THEMED PROFILE README -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Lance+(akrydum);Full-stack+developer;Tech+enthusiast+%F0%9F%9A%80;Let's+build+cool+stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Determination+Mono&size=30&duration=3500&pause=700&center=true&vCenter=true&width=600&lines=*You+approach+Lance.;*A+Full-Stack+Developer+appears!;*LV:+99+%7C+HP:+∞;*Stay+determined.">
 </h2>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdmdmcyMXRoNWswdDZ5eWR0MG5rNWIzb2ZqbnplYmp0NmY2M3VidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUWF7fAUP2q4/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="600" />
 </p>
 
 ---
-## 🌐 My Portfolio (Not yet done)
 
+## ❤️ **SOUL MENU: Portfolio**
 <p align="center">
   <a href="https://portfolio-lanceandres-projects.vercel.app/#about" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-ff4c60?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/ENTER-Red?style=for-the-badge&logo=undertale&logoColor=white" />
   </a>
-  <br/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 💬 **ACT: About Lance**
+- 🔭 Currently working on: **MERN eCommerce & admin systems**
+- 🌱 EXP grinding: **Hyperledger Fabric & Blockchain**
+- ⚙️ Weapons equipped: **React, Express, MongoDB, Tailwind**
+- 🎮 Side Quests: **Android Games (Kotlin)**
+- ⭐ Special Ability: **Clean UI, organized code, and solving boss-level bugs**
 
-- 🔭 I’m currently building: **MERN-based eCommerce and admin dashboards**
-- 🌱 I’m learning: **Hyperledger Fabric & Blockchain Dev**
-- ⚙️ I mostly work with: **React, Node.js, MongoDB, Express, Tailwind**
-- 📱 I also build: **Android games with Kotlin**
-- 🧠 Passionate about: **clean UI, code structure, and problem-solving**
+<p align="center">
+  <img src="https://media.giphy.com/media/3o8doV7Lz4E2xc1CNO/giphy.gif" width="250"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
+## ⚔️ **ITEMS: Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongodb,html,css,tailwind,js,ts,kotlin,androidstudio,git,github,vscode,figma,cpp,java,python" />
+  <br/><br/>
+  <img src="https://media.giphy.com/media/xThuWcaa7ENwxxEueU/giphy.gif" width="180"/>
 </p>
+
 ---
 
-## 🚀 GitHub Stats
-
+## 📊 **STAT CHECK**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akryyydum&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akryyydum&show_icons=true&theme=tokyonight&title_color=ff4444&icon_color=ff5555" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akryyydum&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akryyydum&theme=tokyonight&ring=ff4444&fire=ff0000" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akryyydum&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akryyydum&layout=compact&theme=tokyonight&title_color=fdfdfd" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
+## 🌌 **Timeline EXP Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akryyydum&bg_color=1a1b27&color=ffffff&line=ff5c5c&point=ffb86c&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akryyydum&bg_color=0d0d0d&color=ffffff&line=ff4444&point=fafafa&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Projects I'm Proud Of
+## 🧩 **SAVE POINTS (Projects)**
 
-| Project | Description | Stack |
-|--------|-------------|--------|
-| 🏠 **Barangay Management System** | React + Node.js system for resident registration, verification, and reports. | `MERN`, `Ant Design`, `MongoDB` |
-| 🛒 **Bookstore w/ Real-Time Cart** | Responsive store with payment system, admin panel, and cart sync. | `React`, `Express`, `Stripe` |
-| 🎮 **Memory Card Matching Game** | Kotlin-based Android game with animation, timer, and leaderboard. | `Kotlin`, `RecyclerView`, `SharedPreferences` |
+| ⭐ Project | 💬 Description | 🔧 Stack |
+|-----------|----------------|----------|
+| 🏠 **Barangay Management System** | A full MERN system for resident registration, verification, and reports. | `MERN`, `Ant Design`, `MongoDB` |
+| 📚 **Bookstore w/ Real-Time Cart** | Live cart updates, payment checkout, and admin system. | `React`, `Express`, `Stripe` |
+| 🎮 **Memory Card Matching Game** | Android game with animations, timers, and leaderboard. | `Kotlin`, `RecyclerView` |
 
 ---
 
-## 📫 Connect With Me
-
+## 📫 **ACT → CALL**
 <p align="center">
-  <a href="mailto:lanceandres12.la@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/akryyydum"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:lanceandres12.la@gmail.com"><img src="https://img.shields.io/badge/Send%20Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/akryyydum"><img src="https://img.shields.io/badge/Visit%20Profile-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/9Fef6fRziZx0w/giphy.gif" width="200" />
 </p>
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+<p align="center"><i>*"Despite everything… it’s still you."*</i></p>
