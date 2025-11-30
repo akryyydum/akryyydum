@@ -1,11 +1,11 @@
 <!-- UNDERTALE THEMED PROFILE README -->
 
 <h2 align="center">
-  <img src="https://fbi.cults3d.com/uploaders/18922083/illustration-file/7a713536-6eaa-4c7d-8323-49192232d2ec/Screenshot-2022-06-19-222128.jpg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Determination+Mono&size=30&duration=3500&pause=700&center=true&vCenter=true&width=600&lines=*You+approach+Lance.;*A+Full-Stack+Developer+appears!;*LV:+99+%7C+HP:+∞;*Stay+determined.">
 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="600" />
+  <img src="https://miro.medium.com/1*kxRoUaT2ikHB4Z0ZwbuRjw.jpeg" width="600" />
 </p>
 
 ---
