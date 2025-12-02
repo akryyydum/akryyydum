@@ -72,8 +72,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/9Fef6fRziZx0w/giphy.gif" width="200" />
-</p>
 
 <p align="center"><i>*"Despite everything… it’s still you."*</i></p>
