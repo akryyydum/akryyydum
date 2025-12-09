@@ -54,7 +54,7 @@
 
 ---
 
-## 🧩 **SAVE POINTS (Projects)**
+## **PROJECTS**
 
 | ⭐ Project | 💬 Description | 🔧 Stack |
 |-----------|----------------|----------|
